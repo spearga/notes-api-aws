@@ -1,4 +1,4 @@
-seservice: notes-app-api
+service: notes-app-api
 
 # Create an optimized package for our functions
 package:
